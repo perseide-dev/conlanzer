@@ -1,5 +1,6 @@
 import Permissions from "./permissions.entity";
 import { permissionKey } from "../value-objects/permissionKey.valueObject";
+import { UserType } from "../enums/userType.enum";
 
 export class Role{
     constructor(

@@ -12,6 +12,6 @@ export class User{
         public createdAt: Date,
         public updatedAt: Date,
         public isActive: boolean = true,
-    ) {}
+    ){}
 }
 
