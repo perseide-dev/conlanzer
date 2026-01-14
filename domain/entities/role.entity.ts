@@ -1,4 +1,5 @@
-import {}
+import Permissions from "./permissions.entity";
+import { permissionKey } from "../value-objects/permissionKey.valueObject";
 
 export class Role{
     constructor(
